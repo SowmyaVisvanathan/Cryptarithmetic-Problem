@@ -5,23 +5,6 @@
 ## Aim:
 To solve Cryptarithmetic Problem,a CSP(Constraint Satisfaction Problem) using Python
 
-## Procedure:
-Input and Output
-<br>Input:
-This algorithm will take three words.
-<br> B A S E<br>
-    B A L L<br>
-           ----------<br>
-           G A M E S<br>
-
-Output:
-It will show which letter holds which number from 0 – 9.
-For this case it is like this.
-
-              B A S E                         2 4 6 1
-              B A L L                         2 4 5 5
-             ---------                       ---------
-            G A M E S                       0 4 9 1 6
 ## Algorithm:
 
 - For this problem, we will define a node, which contains a letter and its corresponding values.
